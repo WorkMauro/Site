@@ -1,0 +1,1 @@
+Atalho para dobrar linhas shift alt + seta para baixo
